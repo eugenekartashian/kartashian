@@ -97,7 +97,7 @@ const Header = ({ isDarkMode }) => {
           initial={{ y: 20, opacity: 0 }}
           whileInView={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.8, delay: 1 }}
-          href="/cv_eng_yevhen_kartashian.pdf?v=1.1"
+          href="/assets/cv_eng_yevhen_kartashian.pdf?v=1.2"
           download
           className="px-10 py-3 border rounded-full flex items-center gap-2 bg-transparent text-light-text dark:text-dark-text hover:-translate-y-1 duration-500 hover:bg-light-hover dark:hover:bg-dark-hover"
         >
